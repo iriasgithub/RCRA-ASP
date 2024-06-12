@@ -1,5 +1,5 @@
 # RCRA-ASP
-Prácticas de Answer Set Programming de Representación del Conocimiento y Razonamiento Automático del Grado de Ingeniería Informática UDC
+Prácticas de Answer Set Programming RCRA Q6 GEI
 # Descripción del problema
 En este ejercicio jugaremos con Clingo para encontrar soluciones al rompecabezas Masyu. Masyu es un rompecabezas que consiste en dibujar segmentos entre puntos en una cuadrícula de N x N de manera que todos los segmentos formen un solo camino cíclico. Algunos puntos de la cuadrícula pueden estar marcados con un círculo negro o blanco. Las restricciones del rompecabezas son las siguientes:
 
